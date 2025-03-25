@@ -8,7 +8,7 @@
 ## Introdução
 
 
-O objetivo desse laboratório é testar algumas ferramentas de indexação, pesquisa e *document intelligence* com o recurso Azure AI Search. Esses procedimentos foram realizados como parte do **Bootcamp Microsoft Azure AI Fundamentals, da DIO**.
+O objetivo desse laboratório é testar algumas ferramentas de indexação, pesquisa e *document intelligence* com o recurso Azure AI Search. Esses procedimentos foram realizados como parte do **Bootcamp Avanade, da DIO**.
 
 
 **Document Intelligence** é uma das áreas em que a aplicação de **inteligência artificial** se mostra muito útil e eficaz. É um conceito que envolve a aplicação de diversas ferramentas de **processamento de documentos**, tornando possível **extrair suas informações** de forma muito mais eficiente ao permitir o **entendimento do que elas representam**. Dentre essas ferramentas, pode-se citar o uso de OCR (Optical Character Recognition), a fim de identificar texto em imagens de recibos ou outros documentos digitalizados; indexação de conteúdos, o que os torna pesquisáveis dentro de uma base de dados; extração de frases-chave e dados de forma automática e até mesmo análise de sentimentos, como em casos de comentários e avaliações.
